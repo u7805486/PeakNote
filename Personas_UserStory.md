@@ -76,6 +76,15 @@ Wang needs to revisit a decision made two months ago about investor negotiations
 **Scenario:**  
 During a team meeting, project manager shares important updates in English. To ensure understands, they need a translation of the content for team members whose first language is not English.
 
+#### **User Story 6: Seamless Integration with Skype for Business**
+
+**As an** IT administrator,  
+**I want the** AI meeting assistant to integrate seamlessly with Skype for Business,  
+**so that** users can utilize its features without additional setup.
+
+**Scenario:**  
+During a company-wide meeting, employees use Skype for Business for communication. The IT administrator ensures that the AI meeting assistant is available without requiring manual configuration, allowing users to access transcription and summarization features effortlessly.
+
 ---
 
 ### **Requirements Elicitation**
