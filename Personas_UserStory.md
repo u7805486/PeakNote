@@ -87,6 +87,8 @@ During a team meeting, project manager shares important updates in English. To e
    - Provide real-time transcription during meetings.
    - Store and allow searching of past meeting records.
    - Enable exporting of meeting minutes in different formats (PDF, DOCX, etc.).
+   - Sensitive words should be avoided when transcribing.
+   - Seamless integration with Skype for Business or other tools to enable effortless usage during meetings.
 
 2. **Non-functional Requirements**
    
