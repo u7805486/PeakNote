@@ -67,6 +67,15 @@ Lucy, working from a different time zone, joins the meeting 15 minutes late. Sky
 **Scenario:**  
 Wang needs to revisit a decision made two months ago about investor negotiations. He searches for "funding strategy" in SkyNote and finds the relevant meeting discussions within seconds.
 
+#### **User Story 5: Multi-Language Support**
+
+**As a** project manager,  
+**I want to** translate the meeting content into multiple language.,  
+**so that** every team member can have a clear understanding of meeting content.
+
+**Scenario:**  
+During a team meeting, project manager shares important updates in English. To ensure understands, they need a translation of the content for team members whose first language is not English.
+
 ---
 
 ### **Requirements Elicitation**
