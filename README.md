@@ -1,1 +1,1 @@
-# MeetingAssistant
+# SkyNote
