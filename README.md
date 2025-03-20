@@ -3,7 +3,7 @@
 # SkyNote  
 **AI-Powered Meeting Assistant for Smarter Collaboration**  
 
-<img width="512" alt="SkyNote1" src="https://github.com/user-attachments/assets/7dd36e9c-53ce-4487-9ee4-8ba2c6a6fb65" />
+![20250320143825](https://github.com/user-attachments/assets/a8a37bcc-b017-47f7-8041-78860fac874a)
 
 ---
 
