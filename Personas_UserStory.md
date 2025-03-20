@@ -6,7 +6,7 @@
 - **Age**: 38
 - **Occupation**: Project Manager
 - **Needs**: Efficiently record meeting content and quickly assign tasks to team members.
-- **Pain Points**: Manually taking meeting minutes is time-consuming, task assignments are prone to omissions, and tracking task progress after meetings is difficult.
+- **Pain Points**: Manually taking meeting minutes is time-consuming, task assignments are difficult to achieve, and tracking task progress after meetings is difficult.
 - **SkyNote Value**: Automatically generates task lists after meetings, improving team execution efficiency.
 
 #### **Persona 2: Startup Founder**
@@ -18,14 +18,50 @@
 - **Pain Points**: Frequent meetings make it hard to manually organize discussion points, and efficient collaboration is essential.
 - **SkyNote Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss.
 
-#### **Persona 3: Remote Team Member**
+#### **Persona 3: Executive Assistant**
 
-- **Name**: Lucy
-- **Age**: 28
-- **Occupation**: Remote Product Manager
-- **Needs**: Stay updated on meetings, even if unable to attend due to time zone differences.
-- **Pain Points**: Different time zones make it difficult to join all meetings in real-time, and meeting notes are often inconsistent in quality.
-- **SkyNote Value**: Offers comprehensive and structured meeting minutes, ensuring no crucial information is missed.
+- Name: Sarah
+- Age: 35
+- Occupation: Executive Assistant to C-Suite Leadership
+- Needs: Efficiently organize and distribute meeting summaries to executives
+- Pain Points: Manually creating and sending meeting notes to multiple stakeholders is time-consuming and prone to inconsistency
+- SkyNote Value: Automatically delivers polished meeting summaries directly to executives' Outlook inboxes, saving time and ensuring consistent communication
+
+#### Persona 4: Sales Manager
+
+- Name: Miguel
+- Age: 42
+- Occupation: Regional Sales Manager
+- Needs: Track customer conversations and commitments across multiple client meetings
+- Pain Points: Difficult to document all important details from numerous client meetings while maintaining customer relationships
+- SkyNote Value: Receives comprehensive meeting summaries in Outlook immediately after client meetings, allowing quick follow-up on action items and commitments
+
+#### Persona 5: HR Director
+
+- Name: Priya
+- Age: 45
+- Occupation: Human Resources Director
+- Needs: Document important details from employee meetings and performance reviews
+- Pain Points: Struggles to maintain thorough records of sensitive conversations while being fully present during meetings
+- SkyNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records
+
+#### Persona 6: IT Administrator
+
+- Name: Derek
+- Age: 39
+- Occupation: IT Systems Administrator
+- Needs: Implement organization-wide meeting solutions that work with existing infrastructure
+- Pain Points: New software tools often create integration challenges and security concerns
+- SkyNote Value: SkyNote's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges
+
+#### Persona 7: Compliance Officer
+
+- Name: Amara
+- Age: 41
+- Occupation: Regulatory Compliance Officer
+- Needs: Maintain accurate records of compliance meetings and discussions
+- Pain Points: Missing or incomplete meeting documentation can lead to regulatory issues
+- SkyNote Value: Receives comprehensive meeting summaries directly in Outlook that can be easily archived for audit purposes and compliance documentation
 
 ---
 
