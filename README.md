@@ -1,6 +1,6 @@
 
 
-# SkyNote  
+# PeakNote  
 **AI-Powered Meeting Assistant for Smarter Collaboration**  
 
 <img width="830" alt="ee22bd4ac6560219fce877820c38c12" src="https://github.com/user-attachments/assets/fe3ea586-b55e-4f47-b44c-32dd598224ab" />
@@ -8,11 +8,11 @@
 ---
 
 **Turn Meetings into Actionable Results**  
-Tired of chaotic meetings and missed follow-ups? SkyNote automates note-taking, task tracking, and decision management so your team can focus on execution.  
+Tired of chaotic meetings and missed follow-ups? PeakNote automates note-taking, task tracking, and decision management so your team can focus on execution.  
 
 ---
 
-### **Why Teams Love SkyNote**  
+### **Why Teams Love PeakNote**  
 ✅ **90% Faster Meeting Summaries**  
 ✅ **60% Fewer Missed Tasks**  
 ✅ **24/7 Access to Meeting Insights**  
@@ -49,7 +49,7 @@ Tired of chaotic meetings and missed follow-ups? SkyNote automates note-taking, 
 
 ### **How It Works**  
 1. **Join a Meeting** (Live or Recorded)  
-2. **SkyNote Transcribes & Analyzes**  
+2. **PeakNote Transcribes & Analyzes**  
 3. **Review/Edit Auto-Generated:**  
    - Meeting Minutes  
    - Task Board  
