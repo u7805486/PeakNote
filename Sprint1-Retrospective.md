@@ -70,7 +70,7 @@
    - Break down larger tasks into smaller, more manageable chunks
 
    - Add buffer time for tasks involving external dependencies or new technologies
-   - **Owner:** Rongze-Gao
+   - **Owner:** Rongze
    - **Due:** Before Sprint 2 Planning
 
 
@@ -80,14 +80,14 @@
    - Enforce the 15-minute timebox for daily stand-ups with a timekeeper
    - Update task status in the board at least once daily
 
-   - **Owner:** simonliuanu
+   - **Owner:** Simon
    - **Due:** Immediate implementation
 
 3. **Address Technical Debt**
    - Schedule dedicated time to improve CI/CD pipeline stability
    - Create a knowledge-sharing session for development environment setup
    - Document architecture decisions more thoroughly in the wiki
-   - **Owner:** Helixons
+   - **Owner:** Tianfa
    - **Due:** End of Sprint 2
 
 
@@ -96,7 +96,7 @@
 
    - Identify task dependencies during sprint planning
    - Add acceptance criteria to all user stories
-   - **Owner:** jamiezhanggg
+   - **Owner:** Jamie
    - **Due:** Before Sprint 2 Planning
 
 
@@ -146,9 +146,9 @@ Team members are generally satisfied with the progress made in establishing proj
 ## Kudos Corner
 
 
-- Special recognition to simonliuanu for managing multiple critical tasks simultaneously
-- Thanks to Yokyeee1114 for the comprehensive user stories that will guide our entire project
+- Special recognition to Simon for managing multiple critical tasks simultaneously
+- Thanks to Yuheng for the comprehensive user stories that will guide our entire project
 
-- Appreciation to Helixons for delivering a high-quality landing page despite timeline challenges
-- Recognition to jamiezhanggg for creating detailed, research-backed personas that clearly articulate user needs
+- Appreciation to Tianfa for delivering a high-quality landing page despite timeline challenges
+- Recognition to Jamie for creating detailed, research-backed personas that clearly articulate user needs
 
