@@ -3,65 +3,107 @@
 #### **Persona 1: Corporate Team Manager**
 
 - **Name**: Zheng
+  
 - **Age**: 38
+  
 - **Occupation**: Project Manager
+  
 - **Needs**: Efficiently record meeting content and quickly assign tasks to team members.
+  
 - **Pain Points**: Manually taking meeting minutes is time-consuming, task assignments are difficult to achieve, and tracking task progress after meetings is difficult.
-- **SkyNote Value**: Automatically generates task lists after meetings, improving team execution efficiency.
+  
+- **MeetingAssistant Value**: Automatically generates task lists after meetings, improving team execution efficiency. Provides a post-meeting preview interface to review, modify, and confirm the meeting minutes before finalizing them.
+  
 
 #### **Persona 2: Startup Founder**
 
 - **Name**: Wang
+  
 - **Age**: 32
+  
 - **Occupation**: CEO of a Startup
+  
 - **Needs**: Quickly capture key information from multiple meetings and avoid missing critical decisions.
+  
 - **Pain Points**: Frequent meetings make it hard to manually organize discussion points, and efficient collaboration is essential.
-- **SkyNote Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss.
+  
+- **MeetingAssistant Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss. Allows seamless sharing of finalized meeting minutes with Teams colleagues and groups.
+  
 
 #### **Persona 3: Executive Assistant**
 
 - Name: Sarah
+  
 - Age: 35
+  
 - Occupation: Executive Assistant to C-Suite Leadership
+  
 - Needs: Efficiently organize and distribute meeting summaries to executives
+  
 - Pain Points: Manually creating and sending meeting notes to multiple stakeholders is time-consuming and prone to inconsistency
-- SkyNote Value: Automatically delivers polished meeting summaries directly to executives' Outlook inboxes, saving time and ensuring consistent communication
+  
+- MeetingAssistant Value: Automatically delivers polished meeting summaries directly to executives' Outlook inboxes, saving time and ensuring consistent communication. Users can download meeting summaries in PDF or Word format for formal documentation.
+  
 
 #### Persona 4: Sales Manager
 
 - Name: Miguel
+  
 - Age: 42
+  
 - Occupation: Regional Sales Manager
+  
 - Needs: Track customer conversations and commitments across multiple client meetings
+  
 - Pain Points: Difficult to document all important details from numerous client meetings while maintaining customer relationships
-- SkyNote Value: Receives comprehensive meeting summaries in Outlook immediately after client meetings, allowing quick follow-up on action items and commitments
+  
+- MeetingAssistant Value: Receives comprehensive meeting summaries in Outlook immediately after client meetings, allowing quick follow-up on action items and commitments. Provides the ability to share key meeting takeaways directly to Teams for better coordination.
+  
 
 #### Persona 5: HR Director
 
 - Name: Priya
+  
 - Age: 45
+  
 - Occupation: Human Resources Director
+  
 - Needs: Document important details from employee meetings and performance reviews
+  
 - Pain Points: Struggles to maintain thorough records of sensitive conversations while being fully present during meetings
-- SkyNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records
+  
+- MeetingAssistant Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records. Supports markdown preview of meeting notes before formalizing them.
+  
 
 #### Persona 6: IT Administrator
 
 - Name: Derek
+  
 - Age: 39
+  
 - Occupation: IT Systems Administrator
+  
 - Needs: Implement organization-wide meeting solutions that work with existing infrastructure
+  
 - Pain Points: New software tools often create integration challenges and security concerns
-- SkyNote Value: SkyNote's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges
+  
+- MeetingAssistant Value: MeetingAssistant's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges. Provides options to manage meeting summary file formats and distribution.
+  
 
 #### Persona 7: Compliance Officer
 
 - Name: Amara
+  
 - Age: 41
+  
 - Occupation: Regulatory Compliance Officer
+  
 - Needs: Maintain accurate records of compliance meetings and discussions
+  
 - Pain Points: Missing or incomplete meeting documentation can lead to regulatory issues
-- SkyNote Value: Receives comprehensive meeting summaries directly in Outlook that can be easily archived for audit purposes and compliance documentation
+  
+- MeetingAssistant Value: Receives comprehensive meeting summaries directly in Outlook that can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured markdown preview before finalizing records.
+  
 
 ---
 
@@ -74,7 +116,7 @@
 **so that** I can quickly review key points without going through the entire recording.
 
 **Scenario:**  
-Zheng holds a weekly team meeting where important decisions are made. After the meeting, SkyNote generates a concise summary, including action items and major discussions. Zheng can quickly scan the summary to ensure nothing is missed.
+Zheng holds a weekly team meeting where important decisions are made. After the meeting, MeetingAssistant generates a concise summary, including action items and major discussions. Zheng can quickly scan the summary to ensure nothing is missed.
 
 #### **User Story 2: Task Assignment Based on Speakers’ Inputs**
 
@@ -83,61 +125,63 @@ Zheng holds a weekly team meeting where important decisions are made. After the 
 **so that** I can streamline the delegation process and improve accountability.
 
 **Scenario:**  
-During a product planning meeting, team members discuss their responsibilities. SkyNote identifies the tasks mentioned and assigns them to the relevant team members, reducing manual effort for the manager.
+During a product planning meeting, team members discuss their responsibilities. MeetingAssistant identifies the tasks mentioned and assigns them to the relevant team members, reducing manual effort for the manager.
 
-#### **User Story 3: Real-time Meeting Transcription**
+#### **User Story 3: Post-Meeting Transcription**
 
 **As a** remote team member,  
-**I want to** access a real-time transcript of the meeting,  
-**so that** I can stay updated even if I join late or miss part of the discussion.
+**I want to** access a transcript of the meeting after it ends,  
+**so that** I can review the discussion even if I joined late or missed part of it.
 
 **Scenario:**  
-Lucy, working from a different time zone, joins the meeting 15 minutes late. SkyNote provides a live transcript, allowing her to catch up without disrupting the flow of conversation.
+Lucy, working from a different time zone, joins the meeting 15 minutes late. After the meeting ends, MeetingAssistant generates a full transcript, allowing her to catch up on everything that was discussed.
 
-#### **User Story 4: Searchable Meeting Archives**
+#### **User Story 4: Post-Meeting Summary Preview and Editing**
 
-**As a** startup founder,  
-**I want to** search past meeting discussions by keywords,  
-**so that** I can quickly retrieve important decisions and references.
-
-**Scenario:**  
-Wang needs to revisit a decision made two months ago about investor negotiations. He searches for "funding strategy" in SkyNote and finds the relevant meeting discussions within seconds.
-
-#### **User Story 5: Multi-Language Support**
-
-**As a** project manager,  
-**I want to** translate the meeting content into multiple language.,  
-**so that** every team member can have a clear understanding of meeting content.
+**As an** executive assistant,  
+**I want to** preview the generated meeting minutes in markdown format,  
+**so that** I can make necessary modifications before finalizing the summary.
 
 **Scenario:**  
-During a team meeting, project manager shares important updates in English. To ensure understands, they need a translation of the content for team members whose first language is not English.
+After a high-stakes meeting, Sarah accesses the markdown preview of the generated meeting summary. She quickly edits key points and confirms formatting before finalizing it as a PDF to distribute to executives.
 
-#### **User Story 6: Seamless Integration with Skype for Business**
+#### **User Story 5: Meeting Summary Export and Sharing**
 
-**As an** IT administrator,  
-**I want the** AI meeting assistant to integrate seamlessly with Skype for Business,  
-**so that** users can utilize its features without additional setup.
+**As a** sales manager,  
+**I want to** download the finalized meeting summary in PDF or Word format or share it with Teams colleagues,  
+**so that** I can ensure proper documentation and collaboration.
 
 **Scenario:**  
-During a company-wide meeting, employees use Skype for Business for communication. The IT administrator ensures that the AI meeting assistant is available without requiring manual configuration, allowing users to access transcription and summarization features effortlessly.
+After an important client meeting, Miguel finalizes the meeting summary and chooses to download a PDF version for documentation. Additionally, he shares it directly with his sales team on Microsoft Teams to keep everyone aligned.
 
 ---
 
 ### **Requirements Elicitation**
 
 1. **Functional Requirements**
-   
-   - Automatically generate structured meeting summaries.
-   - Identify speakers and assign tasks accordingly.
-   - Provide real-time transcription during meetings.
-   - Store and allow searching of past meeting records.
-   - Enable exporting of meeting minutes in different formats (PDF, DOCX, etc.).
-   - Sensitive words should be avoided when transcribing.
-   - Seamless integration with Skype for Business or other tools to enable effortless usage during meetings.
-
+  
+  - Automatically generate structured meeting summaries.
+    
+  - Identify speakers and assign tasks accordingly.
+    
+  - Provide post-meeting transcription.
+    
+  - Enable exporting of meeting minutes in different formats (PDF, DOCX, etc.).
+    
+  - Sensitive words should be avoided when transcribing.
+    
+  - Seamless integration with Microsoft Teams or other tools to enable effortless usage during meetings.
+    
+  - Provide a markdown-based preview interface for reviewing and editing meeting summaries before finalization.
+    
+  - Enable downloading finalized meeting minutes as PDF or Word documents.
+    
+  - Allow direct sharing of meeting summaries with Teams colleagues or groups.
+    
 2. **Non-functional Requirements**
-   
-   - Must have high accuracy in speech recognition and transcription.
-   - Should support multiple languages for global teams.
-   - Must be secure, ensuring only authorized users can access meeting data.
-   - Should have a user-friendly interface with minimal learning curve.
+  
+  - Must have high accuracy in speech recognition and transcription.
+    
+  - Must be secure, ensuring only authorized users can access meeting data.
+    
+  - Should have a user-friendly interface with minimal learning curve.
